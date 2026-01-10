@@ -64,7 +64,7 @@ I have published more than 15 papers at the top international AI conferences wit
 
 [Revolutionizing Training-Free NAS: Towards Efficient Automatic Proxy Discovery via Large Language Models](https://openreview.net/pdf?id=3naHyE5klE)
 
-**HaidongKang^{*}**, Lihong Lin, Hanling Wang.
+**HaidongKang***, Lihong Lin, Hanling Wang.
 </div>
 </div>
 
