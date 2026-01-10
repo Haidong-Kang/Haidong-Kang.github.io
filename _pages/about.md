@@ -53,7 +53,7 @@ I have published more than 15 papers at the top international AI conferences wit
 - *2025.05*: &nbsp;🎉🎉 Our one paper about few-shot learning is accepted to ICML 2025.
 - *2025.04*: &nbsp;🎉🎉 Our one paper about few-shot learning is accepted to IJCAI 2025.
 
-# 📝 Publications 
+# 📝 Representative Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/eop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,6 +61,8 @@ I have published more than 15 papers at the top international AI conferences wit
 [Revolutionizing Training-Free NAS: Towards Efficient Automatic Proxy Discovery via Large Language Models](https://openreview.net/pdf?id=3naHyE5klE)
 
 **HaidongKang^{*}**, Lihong Lin, Hanling Wang.
+
+# 📝 Publications 
 
 ## Conference Papers
 
