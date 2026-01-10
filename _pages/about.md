@@ -31,7 +31,7 @@ My current research interests include edge computing, machine learning, automate
 - **Machine Learning**: Stability and generalization error bounds, few-shot learning, self-supervised learning, AI for Science, and AIGC
 (Supporting publications: ICML 2025, ACM MM 2025)
 
-- **utomated Algorithm Design** (new research direction; related concurrent work includes Prof. Qingfu Zhang’s EOP algorithm at CityU):
+- **Automated Algorithm Design** (new research direction; related concurrent work includes Prof. Qingfu Zhang’s EOP algorithm at CityU):
 Neural architecture design, adversarial attack design, training-free metric design, MPQ strategies, MoE decomposition algorithms, black-box optimization, optimizer design, automated software engineering, data augmentation strategy design, multimodal fusion strategies, attention mechanism design, model merging strategies, and interdisciplinary algorithm design for AI for Science
 (Supporting publications: NeurIPS 2025, three papers under review at CVPR 2026, one planned submission to ICML 2026)
 
