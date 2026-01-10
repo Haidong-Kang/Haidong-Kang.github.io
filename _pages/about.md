@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Haidong Kang. I’m currently an associate professor at [Northeastern University, China](https://www.neu.edu.cn/). He has published more than ten papers in top-tier journals and conferences, including IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, SCIS, ICML 2025, ICCV 2025, NeurIPS 2025, ACM MM 2025, IJCAI 2025, AAAI 2026, and IEEE TNNLS. One of his top-tier journal papers has been recognized as an SCI Highly Cited Paper.
+Hello! This is Haidong Kang. I’m currently an associate professor at [Northeastern University, China](https://www.neu.edu.cn/). He has published more than ten papers in **top-tier** journals and conferences, including IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, SCIS, ICML 2025, ICCV 2025, NeurIPS 2025, ACM MM 2025, IJCAI 2025, AAAI 2026, and IEEE TNNLS. One of his top-tier journal papers has been recognized as an SCI Highly Cited Paper.
 
 [CN中文主页](https://jsjytx.neuq.edu.cn/info/1037/8339.htm) Email: hdkang@stumail.neu.edu.cn or kanghaidong@qhd.neu.edu.cn or hdkustl@gmail.com
 
