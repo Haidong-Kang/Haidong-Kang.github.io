@@ -66,7 +66,7 @@ I have published more than 15 papers at the top international AI conferences wit
 
 ### CCF-A
 
--**<mark>ICML2026 </mark>** Changyu Li, Ming Lei, Haidong Kang*, Lijuan Shen, Xinyu Wang, Fei Luo*,  BARC: Coupling Budget-Adaptive Computation with Anytime-Valid e-Processes for Reliable Streaming Decisions,  ICML2026, under review. (CCF A)
+- **<mark>ICML2026 </mark>** Changyu Li, Ming Lei, Haidong Kang*, Lijuan Shen, Xinyu Wang, Fei Luo*,  BARC: Coupling Budget-Adaptive Computation with Anytime-Valid e-Processes for Reliable Streaming Decisions,  ICML2026, under review. (CCF A)
 - Haidong Kang*,Menghan Lu, Yifan Shen, xiaoming Yuan, Lihong Lin, Enneng Yang. Teaching LLMs to Think with Humans under Incomplete Information. ACL 2026, under review. (CCF A)
 - Haidong Kang, Lianbo Ma*, Guo Yu, Guoyang Xie, Qing Li, Shangce Gao, Zhichao Lu. Understanding and Enhancing Mixed Precision Quantization Search on Target Hardware for Neural Network Accelerators. SCIS 2025. (CCF A, major revision) 
 - Haidong Kang, Lihong Lin, Enneng Yang, Hong-Ning Dai, Hao Wang*. Breaking Expert Knowledge Limits: Self-Pruning for Large Language Models. CVPR 2026, under review. (CCF A) https://arxiv.org/abs/2511.15390 
