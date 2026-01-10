@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Haidong Kang. I’m currently an associate professor at the School of Computational Science and Engineering, Northeastern University, China. He has published more than ten papers in top-tier journals and conferences, including IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, SCIS, ICML 2025, ICCV 2025, NeurIPS 2025, ACM MM 2025, IJCAI 2025, AAAI 2026, and IEEE TNNLS. One of his top-tier journal papers has been recognized as an SCI Highly Cited Paper.
+Hello! This is Haidong Kang. I’m currently an associate professor at [Northeastern University, China](https://www.neu.edu.cn/). He has published more than ten papers in top-tier journals and conferences, including IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, SCIS, ICML 2025, ICCV 2025, NeurIPS 2025, ACM MM 2025, IJCAI 2025, AAAI 2026, and IEEE TNNLS. One of his top-tier journal papers has been recognized as an SCI Highly Cited Paper.
+
+[CN中文主页](https://jsjytx.neuq.edu.cn/info/1037/8339.htm) Email: hdkang@stumail.neu.edu.cn or kanghaidong@qhd.neu.edu.cn or hdkustl@gmail.com
+
 
 My current research interests include edge computing, machine learning, automated algorithm design, collaborative learning, and trustworthy artificial intelligence, detailed as follows:
 
@@ -68,39 +71,40 @@ I have published more than 15 papers at the top international AI conferences wit
 
 ### CCF-A
 
-- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ICML 2026</span> Changyu Li, Ming Lei, Haidong Kang*, Lijuan Shen, Xinyu Wang, Fei Luo*,  BARC: Coupling Budget-Adaptive Computation with Anytime-Valid e-Processes for Reliable Streaming Decisions,  ICML2026, under review. (CCF A)
-- Haidong Kang*,Menghan Lu, Yifan Shen, xiaoming Yuan, Lihong Lin, Enneng Yang. Teaching LLMs to Think with Humans under Incomplete Information. ACL 2026, under review. (CCF A)
-- Haidong Kang, Lianbo Ma*, Guo Yu, Guoyang Xie, Qing Li, Shangce Gao, Zhichao Lu. Understanding and Enhancing Mixed Precision Quantization Search on Target Hardware for Neural Network Accelerators. SCIS 2025. (CCF A, major revision) 
-- Haidong Kang, Lihong Lin, Enneng Yang, Hong-Ning Dai, Hao Wang*. Breaking Expert Knowledge Limits: Self-Pruning for Large Language Models. CVPR 2026, under review. (CCF A) https://arxiv.org/abs/2511.15390 
-- Kang, Haidong*, Wei Wu, Hanling Wang. Automatic Adversarial Attack Discovery for Few-Shot Class-Incremental Learning via Large Language Models. CVPR 2026. under review. (CCF A) https://arxiv.org/abs/2512.03882
-- Haidong Kang*, Shuo Yin, Huiquan Zhang, Qihui Zhao, Yifan Shen, Taolin Zhang, Enneng Yang. Rethinking Open Set Domain Generalization: Learning to generalize via Conditional Diffusion Without Gradient. CVPR 2026, under review. (CCF A)
-- Kang, Haidong*, Jun Du, Lihong Lin. Revolutionizing Mixed Precision Quantization: Towards Training-Free Automatic Proxy Discovery via Large Language Models. CVPR 2026. under review. (CCF A)
-- Kang, Haidong*, Yi Lu, Ketong Qian. Breaking Forgetting: Training-Free Few-Shot Class-Incremental Learning via Conditional Diffusion. CVPR 2026. under review. (CCF A) https://arxiv.org/pdf/2511.18516
-- Taolin Zhang, Kang, Haidong, Dongyang Li, Oizhou Chen, Chengyu Wang*, Xiaofeng He, Richang Hong*. QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs. ACL 2026, under review. (CCF A) https://arxiv.org/pdf/2506.17864
-- Haidong Kang*, Lihong Lin, etc. Unlocking the Potential of Continual Model Merging via LLMs-guiled Training-Free Proxy. IJCAI 2026, under review. (CCF A)
-- Haidong Kang*, Lihong Lin, Enneng Yang, Han Yu, Li Shen, Dacheng Tao. Revolutionizing MoE-based LLMs: Towards Efficient Automatic Low-Rank Decomposition Discovery via Large Language Models. ICML2026, under review. (CCF A)
-- Haidong Kang, Ma, Lianbo*, Pengjun Chen, etl. Understanding and Enhancing Differentiable Architecture Search From Information Bottleneck Perspective，AAAI 2026 (CCF A)
-- Hanling Wang, Qing Li*, Li Chen, Haidong Kang, Fei Ma, Yong Jiang. HoloTrace: LLM-based Bidirectional Causal Knowledge Graph for Edge-Cloud Video Anomaly Detection. ACM Multimedia 2025.  (CCF A)
-- Kang, Haidong*, Lihong Lin, Hanling Wang. Revolutionizing Training-Free NAS: Towards Efficient Automatic Proxy Discovery via Large Language Models.  The Thirty-ninth Annual Conference on Neural Information Processing Systems 2025.(CCF A)
-- Haidong Kang, Ma, Lianbo*, Pengjun Chen, Guo Yu, Qing Li. Beyond the Limits: Overcoming Negative Correlations of Activation-Based Training-Free NAS, International Conference on Computer Vision (ICCV), Oct 19, 2025 - Oct 25, 2025, Honolulu, Hawaii.  (CCF A)
-- Haidong Kang*. Revisiting Neural Networks for Few-Shot Learning: A Zero-Cost NAS Perspective.  The Forty-second International Conference on Machine Learning (ICML2025), July 13-19, 2025, Vancouver, Canada. (CCF A)
-- Haidong Kang, Ma, Lianbo*, Guo Yu, Shangce Gao. Where and How to Enhance: Discovering Bit-Width Contribution for Mixed Precision Quantization.  The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), August 16 to August 22, 2025, Montreal, Canada.  (CCF A)
-- Lianbo Ma, Haidong Kang, Guo Yu*, Qing Li, Qiang He*, Single-Domain Generalized Predictor for Neural Architecture Search System, IEEE Transactions on Computers, 2024. (CCF A，ESI高被引)
-- HL Wang, Q Li*, H Kang, etc. ParaLoupe: Real-time Video Analytics on Edge Cluster via Mini Model Parallelization,  IEEE Transactions on Mobile Computing. (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ICML 2026</span> Changyu Li, Ming Lei, **Haidong Kang***, Lijuan Shen, Xinyu Wang, Fei Luo*,  BARC: Coupling Budget-Adaptive Computation with Anytime-Valid e-Processes for Reliable Streaming Decisions. <span style="background-color: #e8f5e9; color: #1b5e20; padding: 3px 8px; border-radius: 4px; font-weight: bold;">under review</span>. (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ACL 2026</span> **Haidong Kang***,Menghan Lu, Yifan Shen, xiaoming Yuan, Lihong Lin, Enneng Yang. Teaching LLMs to Think with Humans under Incomplete Information. under review. (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">SCIS 2026</span> **Haidong Kang**, Lianbo Ma*, Guo Yu, Guoyang Xie, Qing Li, Shangce Gao, Zhichao Lu. Understanding and Enhancing Mixed Precision Quantization Search on Target Hardware for Neural Network Accelerators. (CCF A, major revision) 
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">CVPR 2026</span> **Haidong Kang**, Lihong Lin, Enneng Yang, Hong-Ning Dai, Hao Wang*. [Breaking Expert Knowledge Limits: Self-Pruning for Large Language Models](https://arxiv.org/abs/2511.15390 ). under review. (CCF A) 
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">CVPR 2026</span> **Haidong Kang***, Wei Wu, Hanling Wang. [Automatic Adversarial Attack Discovery for Few-Shot Class-Incremental Learning via Large Language Models](https://arxiv.org/abs/2512.03882). under review. (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">CVPR 2026</span> **Haidong Kang***, Shuo Yin, Huiquan Zhang, Qihui Zhao, Yifan Shen, Taolin Zhang, Enneng Yang. Rethinking Open Set Domain Generalization: Learning to generalize via Conditional Diffusion Without Gradient.  under review. (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">CVPR 2026</span> **Haidong Kang***, Jun Du, Lihong Lin. Revolutionizing Mixed Precision Quantization: Towards Training-Free Automatic Proxy Discovery via Large Language Models. under review. (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">CVPR 2026</span> H**aidong Kang***, Yi Lu, Ketong Qian. [Breaking Forgetting: Training-Free Few-Shot Class-Incremental Learning via Conditional Diffusion](https://arxiv.org/pdf/2511.18516). under review. (CCF A) 
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ACL 2026</span> Taolin Zhang, **Haidong Kang**, Dongyang Li, Oizhou Chen, Chengyu Wang*, Xiaofeng He, Richang Hong*. [QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs](https://arxiv.org/pdf/2506.17864). under review. (CCF A) 
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IJCAI 2026</span> **Haidong Kang***, Lihong Lin, etc. Unlocking the Potential of Continual Model Merging via LLMs-guiled Training-Free Proxy. under review. (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ICML 2026</span> **Haidong Kang***, Lihong Lin, Enneng Yang, Han Yu, YanFeng Zhang, Li Shen, Dacheng Tao. Revolutionizing MoE-based LLMs: Towards Efficient Automatic Low-Rank Decomposition Discovery via Large Language Models. under review. (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">AAAI 2026</span> **Haidong Kang**, Ma, Lianbo*, Pengjun Chen, etl. Understanding and Enhancing Differentiable Architecture Search From Information Bottleneck Perspective. (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">CVPR 2026</span> Hanling Wang, Qing Li*, Li Chen, **Haidong Kang**, Fei Ma, Yong Jiang. HoloTrace: LLM-based Bidirectional Causal Knowledge Graph for Edge-Cloud Video Anomaly Detection.  (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">NeurlPS 2025</span> **Haidong Kang***, Lihong Lin, Hanling Wang. Revolutionizing Training-Free NAS: Towards Efficient Automatic Proxy Discovery via Large Language Models.(CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ICCV 2025</span> **Haidong Kang**, Ma, Lianbo*, Pengjun Chen, Guo Yu, Qing Li. Beyond the Limits: Overcoming Negative Correlations of Activation-Based Training-Free NAS.  (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ICML 2025</span> **Haidong Kang***. Revisiting Neural Networks for Few-Shot Learning: A Zero-Cost NAS Perspective. (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IJCAI 2025</span> **Haidong Kang**, Ma, Lianbo*, Guo Yu, Shangce Gao. Where and How to Enhance: Discovering Bit-Width Contribution for Mixed Precision Quantization.  (CCF A)
+
 
 ### CCF-C
-- Haidong Kang, etc. When NAS Meets Anomaly Detection: In Search of Resource-Efficient Architectures in Surveillance Video, IJCNN 2024. 
-- Tain Zhang, Nan Li, Haidong Kang, etc. Neural Architecture Search Based on Brain Storm Optimization Algorithm for Face Detection, IJCNN 2024.  
-- Pengjun Chen, Jian Gao, Haidong Kang, etc. MRT-NAS: Boosting Training-Free NAS via Manifold Regularization, ICANN2025.
+- **Haidong Kang**, etc. When NAS Meets Anomaly Detection: In Search of Resource-Efficient Architectures in Surveillance Video, IJCNN 2024. 
+- Tain Zhang, Nan Li, **Haidong Kang**, etc. Neural Architecture Search Based on Brain Storm Optimization Algorithm for Face Detection, IJCNN 2024.  
+- Pengjun Chen, Jian Gao, **Haidong Kang**, etc. MRT-NAS: Boosting Training-Free NAS via Manifold Regularization, ICANN2025.
 
 
 ## Journal Papers
 
-1. Haidong Kang, Jianming Zhao, Shi Cheng, Kaizhou Gao, Yang Gao, Hongjiang Wang, Shangce Gao, and Lianbo Ma. Evolving Neural Network for Few-Shot Learning via Zero-Cost NAS. Swarm and Evolutionary Computation 2025. (SCI Q1)
-2. Jian Cheng, Kang, Haidong, Yuxin Shao, Nan Li, Rui Wang, Saiqin Long, Xiaochun Yang, Lianbo Ma, Pengjun Chen. Survey on Large Language Model Inference Acceleration: Principles, Algorithms, Applications and Open Issues. IEEE TNNLS.(SCI Q1 TOP, equal contribution) https://ieeexplore.ieee.org/abstract/document/11247933/
-3. Kang, Haidong* , etc. Enhancing Neural Networks for Diabetic Retinopathy Detection via Heterogeneous Wavelet Transform: An  Architecture Perspective. IEEE TNNLS, under review.  (SCI Q1)
-4. Kang, Haidong*, etc. FSEW: A Real-World Few-Shot Benchmark for Extreme Weather Recognition. IEEE TIM, under review. (SCI Q1)
-5. Kang, Haidong*, Yuxin Shao, etc. Designing Robust Genetic Programming for Feature Learning in Weak Image Classification, KBS, under review. (SCI Q1)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IEEE TC</span> Lianbo Ma, **Haidong Kang**, Guo Yu, Qing Li, Qiang He, Single-Domain Generalized Predictor for Neural Architecture Search System. (CCF A，ESI高被引)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IEEE TMC</span> HL Wang, Q Li*, **H Kang**, etc. ParaLoupe: Real-time Video Analytics on Edge Cluster via Mini Model Parallelization. (CCF A)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">SWEVO</span> **Haidong Kang**, etc. Evolving Neural Network for Few-Shot Learning via Zero-Cost NAS. Swarm and Evolutionary Computation 2025. (SCI Q1)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IEEE TNNLS</span> Jian Cheng, **Haidong Kang**, Yuxin Shao, Pengjun Chen, Nan Li, Rui Wang, Saiqin Long, Xiaochun Yang, Lianbo Ma. [Survey on Large Language Model Inference Acceleration: Principles, Algorithms, Applications and Open Issues](https://ieeexplore.ieee.org/abstract/document/11247933/).(SCI Q1 TOP, equal contribution) 
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IEEE TNNLS</span> **Haidong Kang*** , etc. Enhancing Neural Networks for Diabetic Retinopathy Detection via Heterogeneous Wavelet Transform: An  Architecture Perspective. IEEE TNNLS, under review.  (SCI Q1)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IEEE TIM</span> **Haidong Kang***, etc. FSEW: A Real-World Few-Shot Benchmark for Extreme Weather Recognition. under review. (SCI Q1)
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">KBS</span>**Haidong Kang***, Yuxin Shao, etc. Designing Robust Genetic Programming for Feature Learning in Weak Image Classification, under review. (SCI Q1)
 
 
 
