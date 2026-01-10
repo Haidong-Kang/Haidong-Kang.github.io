@@ -17,14 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello! This is Haidong Kang. I’m currently an associate professor at the School of Computational Science and Engineering, Northeastern University, China. He has published more than ten papers in top-tier journals and conferences, including IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, SCIS, ICML 2025, ICCV 2025, NeurIPS 2025, ACM MM 2025, IJCAI 2025, AAAI 2026, and IEEE TNNLS. One of his top-tier journal papers has been recognized as an SCI Highly Cited Paper. His current research interests include .
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+
+I have published more than 15 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=NZqqv20AAAAJ&hl=en)'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=NZqqv20AAAAJ&hl=en)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎉🎉 Our one paper about MPQ is accepted to SCIS.
+- *2025.11*: &nbsp;🎉🎉 Our one paper about NAS is accepted to AAAI 2026.
+- *2025.11*: &nbsp;🎉🎉 Our one paper about LLMs's survey is accepted to TNNLS.
+- *2025.10*: &nbsp;🎉🎉 Our one paper about NAS for few-shot leanring is accepted to SWEVO.
+- *2025.09*: &nbsp;🎉🎉 Our one paper about LLMs is accepted to NeurIPS 2025.
+- *2025.07*: &nbsp;🎉🎉 Our one paper about LLMs is accepted to ACM MM 2025.
+- *2025.06*: &nbsp;🎉🎉 Our one paper about training-free NAS is accepted to ICCV 2025.
+- *2025.05*: &nbsp;🎉🎉 Our one paper about few-shot learning is accepted to ICML 2025.
+- *2025.04*: &nbsp;🎉🎉 Our one paper about few-shot learning is accepted to IJCAI 2025.
 
 # 📝 Publications 
 
