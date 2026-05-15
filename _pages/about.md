@@ -42,7 +42,10 @@ Neural architecture design, adversarial attack design, training-free metric desi
 
 I have published more than 15 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=NZqqv20AAAAJ&hl=en)'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=NZqqv20AAAAJ&hl=en)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-🔥 🔥 🔥 <span style="background-color: #f3e5d8; color: #5d4037; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #d7ccc8;">Our team is seeking **self-motivated students** (including remote internships, undergraduates, graduate students, and other candidates) to join research on above research direction with the goal of publishing high-quality academic papers. If interested, please email me your resume.</span>
+🔥 🔥 🔥 <span style="background-color: #f3e5d8; color: #5d4037; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #d7ccc8;">Our team is seeking **self-motivated students** (including remote internships, undergraduates, graduate students, and other candidates) to join research on above research direction with the goal of publishing high-quality academic papers. If interested, please email me your resume.
+
+2027届保研学生还剩一个名额，欢迎感兴趣的同学报名！
+</span>
 
 
 
