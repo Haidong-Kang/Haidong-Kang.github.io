@@ -89,7 +89,7 @@ I have published more than 15 papers at the top international AI conferences wit
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">NeurlPs 2026</span> **Haidong Kang***, Wei Wu, Hanling Wang. [Automatic Adversarial Attack Discovery for Few-Shot Class-Incremental Learning via Large Language Models](https://arxiv.org/abs/2512.03882). <span style="background-color: #e8f5e9; color: #1b5e20; padding: 3px 8px; border-radius: 4px; font-weight: bold;">under review</span>.  
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ICML 2026</span> Changyu Li, Ming Lei, **Haidong Kang***, Lijuan Shen, Xinyu Wang, Fei Luo*,  BARC: Coupling Budget-Adaptive Computation with Anytime-Valid e-Processes for Reliable Streaming Decisions.
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ICML 2026</span> Lihong Lin, **Haidong Kang***. Unlocking the Potential of Continual Model Merging: An ODE Perspective. [code]( https://github.com/yohbii/ODE-M) 
-- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ICML 2026</span> **Haidong Kang***, Lihong Lin, Enneng Yang, Hong-Ning Dai, Hao Wang*. Automatic Pruning Discovery for Large Language Models<img width="432" height="16" alt="image" src="https://github.com/user-attachments/assets/b86bbde9-ed48-41ed-89d0-f5900a5b80a4" />.
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ICML 2026</span> **Haidong Kang***, Lihong Lin, Enneng Yang, Hong-Ning Dai, Hao Wang*. Automatic Pruning Discovery for Large Language Models.
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">INFOCOM 2026</span> Aiwen Wang, Xiaoming Yuan, **Haidong Kang**, Changle Li, Ning Zhang, Celimuge Wu, Jalel Ben Othman. RA-MoE: Efficient Edge Federated Learning for Emotion Recognition Based on Resource-Aware Scheduling and Mixture-of-Experts Model.
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">CVPR 2026</span> **Haidong Kang***, Shuo Yin, Huiquan Zhang, Qihui Zhao, Yifan Shen, Taolin Zhang, Enneng Yang. Rethinking Open Set Domain Generalization: Learning to generalize via Conditional Diffusion Without Gradient.
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">ACL 2026</span> Taolin Zhang, **Haidong Kang**, Dongyang Li, Oizhou Chen, Chengyu Wang*, Xiaofeng He, Richang Hong*. [QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs](https://arxiv.org/pdf/2506.17864).
@@ -130,6 +130,10 @@ Binghong Wang, **Haidong Kang***, etal. Safety and Security of Edge Audio Large 
 # 🎖 Honors and Awards
 - *2024.10* National Scholarship (Top 1%)
 
+# 🎖  Projects
+- PI, National Natural Science Foundation of China, Jan 2027 – Dec 2029.
+- PI, Fundamental Research Funds for the Central Universities, Jan 2026 – Dec 2027.
+- PI, Northeastern University Start-up Research Grant, Dec 2025 – Dec 2030.
 
 # 📖 Educations
 - *2021.09 - 2025.10 *, Ph.D. Student at Northeastern University, China
