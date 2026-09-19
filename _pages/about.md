@@ -121,6 +121,7 @@ Binghong Wang, **Haidong Kang***, etal. Safety and Security of Edge Audio Large 
 **Haidong Kang***, Jun Du, Lihong Lin. Revolutionizing Mixed Precision Quantization: Towards Training-Free Automatic Proxy Discovery via Large Language Models. <span style="background-color: #e8f5e9; color: #1b5e20; padding: 3px 8px; border-radius: 4px; font-weight: bold;">under review</span>.
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">SCIS 2026</span> **Haidong Kang**, Lianbo Ma*, Guo Yu, Guoyang Xie, Qing Li, Shangce Gao, Zhichao Lu. Understanding and Enhancing Mixed Precision Quantization Search on Target Hardware for Neural Network Accelerators. 
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IEEE TC 2024</span> Lianbo Ma, **Haidong Kang**, Guo Yu, Qing Li, Qiang He, Single-Domain Generalized Predictor for Neural Architecture Search System.
+- <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IEEE TMC </span> HL Changyuli, **H Kang**, etc. BARC: Anytime-Valid Budget-Adaptive Inference for Reliability-Critical Mobile Edge Streaming Decisions.
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">IEEE TMC 2024</span> HL Wang, Q Li*, **H Kang**, etc. ParaLoupe: Real-time Video Analytics on Edge Cluster via Mini Model Parallelization.
 
 ### SCI Q1
