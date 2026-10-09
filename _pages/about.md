@@ -26,28 +26,25 @@ Hello! This is Haidong Kang. I’m currently an associate professor at [Northeas
 My current research interests include edge computing, machine learning, automated algorithm design, collaborative learning, and trustworthy artificial intelligence, detailed as follows:
 
 - **Edge Computing**: Lightweight neural networks and large models, real-time video analytics systems, industrial vision, AI edge services, and system design
-(Supporting publications: IEEE TC / TMC / TCAD, ICCV 2025, IJCAI 2025, one paper under review at NeurlPs, SCIS 2025)
-
 - **Machine Learning**: Stability and generalization error bounds, few-shot learning, self-supervised learning, AI for Science, and AIGC
-(Supporting publications: ICML 2025, ACM MM 2025)
 
-- **Automated Algorithm Design** (new research direction; related concurrent work includes Prof. Qingfu Zhang’s EOP algorithm at CityU):
+- **Automated Algorithm Design**:
 Neural architecture design, adversarial attack design, training-free metric design, MPQ strategies, MoE decomposition algorithms, black-box optimization, optimizer design, automated software engineering, data augmentation strategy design, multimodal fusion strategies, attention mechanism design, model merging strategies, and interdisciplinary algorithm design for AI for Science
-(Supporting publications: NeurIPS 2025, three papers under review at NeurlPs, one planned submission to ICML 2026)
-
 - **Collaborative Learning**: Large-model inference, distributed machine learning, federated learning, multi-task and continual learning, and model fusion
-(Supporting publications: one paper under review at NeurlPs, TNNLS 2025, two papers under review at ACL 2026, one planned submission to IJCAI 2026)
 
-- **Trustworthy Artificial Intelligence**: Adversarial attacks and defenses, robust training, large-model attacks, AIGC detection, and biologically inspired dendritic neural network research and applications(Supporting publications: one paper under review at NeurlPs)
+- **Trustworthy Artificial Intelligence**: Adversarial attacks and defenses, robust training, large-model attacks, AIGC detection, and biologically inspired dendritic neural network research and applications
+
+- **Embodied AI**: VLA, WM, Lightweighting, Generalization
 
 I have published more than 15 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=NZqqv20AAAAJ&hl=en)'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=NZqqv20AAAAJ&hl=en)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 🔥 🔥 🔥 <span style="background-color: #f3e5d8; color: #5d4037; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #d7ccc8;">Our team is seeking **self-motivated students** (including remote internships, undergraduates, graduate students, and other candidates) to join research on above research direction with the goal of publishing high-quality academic papers. If interested, please email me your resume.
-2027届保研学生还剩一个名额，欢迎感兴趣的同学报名！</span>
+招收2028届保研学生5名，欢迎感兴趣的同学报名！</span>
 
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our two papers about LLMs and EAI are accepted to NeurIPS 2026.
 - *2026.05*: &nbsp;🎉🎉 Our two papers about LLMs and model merging are accepted to ICML 2026.
 - *2026.04*: &nbsp;🎉🎉 Our one paper about LLMs is accepted to ACL 2026 Findings.
 - *2026.02*: &nbsp;🎉🎉 Our one paper about LLMs is accepted to INFOCOM 2026.
