@@ -113,7 +113,7 @@ I have published more than 15 papers at the top international AI conferences wit
 ## Journal Papers
 ### CCF A
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">TPAMI</span>
-Binghong Wang, **Haidong Kang***, etal. Safety and Security of Edge Audio Large Language Models: A Survey. <span style="background-color: #e8f5e9; color: #1b5e20; padding: 3px 8px; border-radius: 4px; font-weight: bold;">under review</span>.
+Binghong Wang, **Haidong Kang***, YanFeng Zhang, Hongning Dai, Guo Yu, Shangce Gao.  From AcousticSensing to Physical Actions: A Comprehensive Survey of Security Risks in Edge-Deployed Audio LLM-Based Agents. <span style="background-color: #e8f5e9; color: #1b5e20; padding: 3px 8px; border-radius: 4px; font-weight: bold;">under review</span>.
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">TMM</span>
 **Haidong Kang***, Jun Du, Lihong Lin. Revolutionizing Mixed Precision Quantization: Towards Training-Free Automatic Proxy Discovery via Large Language Models. <span style="background-color: #e8f5e9; color: #1b5e20; padding: 3px 8px; border-radius: 4px; font-weight: bold;">under review</span>.
 - <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">SCIS 2026</span> **Haidong Kang**, Lianbo Ma*, Guo Yu, Guoyang Xie, Qing Li, Shangce Gao, Zhichao Lu. Understanding and Enhancing Mixed Precision Quantization Search on Target Hardware for Neural Network Accelerators. 
