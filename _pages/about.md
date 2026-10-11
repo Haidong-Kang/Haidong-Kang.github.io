@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Haidong Kang. I’m currently an associate professor at [Northeastern University, China](https://www.neu.edu.cn/). Before that, I received the PhD degree (Oct 2025) from [Northeastern University, China](https://www.neu.edu.cn/). He has published more than 20 papers in **top-tier** journals and conferences, including <span style="background-color: #E3F2FD; color: #0D47A1; padding: 4px 10px; border-radius: 4px; font-weight: bold;">IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, SCIS, ICML 2025, ICCV 2025, NeurIPS 2025, ACM MM 2025, IJCAI 2025, AAAI 2026, ICML 2026, ACL 2026, CVPR and IEEE TNNLS</span>. One of his top-tier journal papers has been recognized as an SCI Highly Cited Paper.
+Hello! This is Haidong Kang(康海东). I’m currently an associate professor at [Northeastern University, China](https://www.neu.edu.cn/). Before that, I received the PhD degree (Oct 2025) from [Northeastern University, China](https://www.neu.edu.cn/). He has published more than 20 papers in **top-tier** journals and conferences, including <span style="background-color: #E3F2FD; color: #0D47A1; padding: 4px 10px; border-radius: 4px; font-weight: bold;">IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, SCIS, ICML, ICCV, NeurIPS, ACM MM, IJCAI, AAAI, CVPR, ACL</span>. One of his top-tier journal papers has been recognized as an SCI Highly Cited Paper.
 
 
 [CN中文主页](https://jsjytx.neuq.edu.cn/info/1037/8339.htm)   <span style="background-color: #E8F5E9; color: #2E7D32; padding: 4px 10px; border-radius: 4px; font-weight: bold;">Email: hdkang@stumail.neu.edu.cn or kanghaidong@qhd.neu.edu.cn or hdkustl@gmail.com</span>
@@ -36,11 +36,15 @@ Neural architecture design, adversarial attack design, training-free metric desi
 
 - **Embodied AI**: VLA, WM, Lightweighting, Generalization
 
-I have published more than 15 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=NZqqv20AAAAJ&hl=en)'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=NZqqv20AAAAJ&hl=en)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published more than 20 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=NZqqv20AAAAJ&hl=en)'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=NZqqv20AAAAJ&hl=en)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-🔥 🔥 🔥 <span style="background-color: #f3e5d8; color: #5d4037; padding: 3px 8px; border-radius: 4px; font-weight: bold; border: 1px solid #d7ccc8;">Our team is seeking **self-motivated students** (including remote internships, undergraduates, graduate students, and other candidates) to join research on above research direction with the goal of publishing high-quality academic papers. If interested, please email me your resume.
-招收2028届保研学生5名，欢迎感兴趣的同学报名！</span>
+<div style="background-color:#f0f7ff; border:2px solid #2b7de9; border-radius:10px; padding:14px 18px; margin:12px 0; line-height:1.7;">
 
+<p style="margin:0 0 8px 0; font-size:16px; font-weight:bold; color:#e60000;">
+📌招收2028届保研学生5名，科研实习生多名，欢迎感兴趣的同学报名！
+</p>
+🔥 🔥 🔥 Our team is seeking **self-motivated students** (including remote internships, undergraduates, graduate students, and other candidates) to join research on above research direction with the goal of publishing high-quality academic papers. If interested, please email me your resume.
+</div>
 
 
 # 🔥 News
