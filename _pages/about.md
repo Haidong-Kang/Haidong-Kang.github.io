@@ -46,7 +46,6 @@ I have published more than 20 papers at the top international AI conferences wit
 🔥 🔥 🔥 Our team is seeking <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">Self-motivated Students</span> (including remote internships, undergraduates, graduate students, and other candidates) to join research on above research direction with the goal of publishing high-quality academic papers. If interested, please email me your resume.
 </div>
 
-<div style="max-height:360px; overflow-y:auto; background:#f7f7f7; border-left:6px solid #333; padding:16px 20px; border-radius:6px; line-height:1.9;">
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 Our two papers about LLMs and EAI are accepted to NeurIPS 2026.
@@ -63,10 +62,7 @@ I have published more than 20 papers at the top international AI conferences wit
 - *2025.06*: &nbsp;🎉🎉 Our one paper about training-free NAS is accepted to ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 Our one paper about few-shot learning is accepted to ICML 2025.
 - *2025.04*: &nbsp;🎉🎉 Our one paper about few-shot learning is accepted to IJCAI 2025.
-</div>
 
-<details>
-<summary>🔥 News</summary>
 
 - **2026.09**: 🎉 Our two papers about LLMs and EAI are accepted to NeurIPS 2026.
 - **2026.05**: 🎉 Our two papers about LLMs and model merging are accepted to ICML 2026.
