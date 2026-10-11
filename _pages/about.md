@@ -43,7 +43,7 @@ I have published more than 20 papers at the top international AI conferences wit
 <p style="margin:0 0 8px 0; font-size:16px; font-weight:bold; color:#e60000;">
 📌招收2028届保研学生5名，科研实习生多名，欢迎感兴趣的同学报名！
 </p>
-🔥 🔥 🔥 Our team is seeking **self-motivated students** (including remote internships, undergraduates, graduate students, and other candidates) to join research on above research direction with the goal of publishing high-quality academic papers. If interested, please email me your resume.
+🔥 🔥 🔥 Our team is seeking <span style="background-color: #FFE4CC; color: #D84315; padding: 2px 6px; border-radius: 4px; font-weight: bold;">Self-motivated Students</span> (including remote internships, undergraduates, graduate students, and other candidates) to join research on above research direction with the goal of publishing high-quality academic papers. If interested, please email me your resume.
 </div>
 
 <div style="max-height:360px; overflow-y:auto; background:#f7f7f7; border-left:6px solid #333; padding:16px 20px; border-radius:6px; line-height:1.9;">
