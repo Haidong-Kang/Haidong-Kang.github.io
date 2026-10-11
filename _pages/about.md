@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Haidong Kang(康海东). I’m currently an associate professor at [Northeastern University, China](https://www.neu.edu.cn/). Before that, I received the PhD degree (Oct 2025) from [Northeastern University, China](https://www.neu.edu.cn/). He has published more than 20 papers in **top-tier** journals and conferences, including <span style="background-color: #E3F2FD; color: #0D47A1; padding: 4px 10px; border-radius: 4px; font-weight: bold;">IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, SCIS, ICML, ICCV, NeurIPS, ACM MM, IJCAI, AAAI, CVPR, ACL</span>. One of his top-tier journal papers has been recognized as an SCI Highly Cited Paper.
+Hello! This is **Haidong Kang(康海东)**. I’m currently an **associate professor** at [Northeastern University, China](https://www.neu.edu.cn/). Before that, I received the PhD degree (Oct 2025) from [Northeastern University, China](https://www.neu.edu.cn/). He has published more than 20 papers in **top-tier** journals and conferences, including <span style="background-color: #E3F2FD; color: #0D47A1; padding: 4px 10px; border-radius: 4px; font-weight: bold;">IEEE Transactions on Computers, IEEE Transactions on Mobile Computing, SCIS, ICML, ICCV, NeurIPS, ACM MM, IJCAI, AAAI, CVPR, ACL</span>. One of his top-tier journal papers has been recognized as an SCI Highly Cited Paper.
 
 
 [CN中文主页](https://jsjytx.neuq.edu.cn/info/1037/8339.htm)   <span style="background-color: #E8F5E9; color: #2E7D32; padding: 4px 10px; border-radius: 4px; font-weight: bold;">Email: hdkang@stumail.neu.edu.cn or kanghaidong@qhd.neu.edu.cn or hdkustl@gmail.com</span>
@@ -46,6 +46,7 @@ I have published more than 20 papers at the top international AI conferences wit
 🔥 🔥 🔥 Our team is seeking **self-motivated students** (including remote internships, undergraduates, graduate students, and other candidates) to join research on above research direction with the goal of publishing high-quality academic papers. If interested, please email me your resume.
 </div>
 
+<div style="max-height:360px; overflow-y:auto; background:#f7f7f7; border-left:6px solid #333; padding:16px 20px; border-radius:6px; line-height:1.9;">
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 Our two papers about LLMs and EAI are accepted to NeurIPS 2026.
@@ -62,6 +63,7 @@ I have published more than 20 papers at the top international AI conferences wit
 - *2025.06*: &nbsp;🎉🎉 Our one paper about training-free NAS is accepted to ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 Our one paper about few-shot learning is accepted to ICML 2025.
 - *2025.04*: &nbsp;🎉🎉 Our one paper about few-shot learning is accepted to IJCAI 2025.
+</div>
 
 # 📝  Publications 
 
