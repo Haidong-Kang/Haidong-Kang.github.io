@@ -65,6 +65,26 @@ I have published more than 20 papers at the top international AI conferences wit
 - *2025.04*: &nbsp;🎉🎉 Our one paper about few-shot learning is accepted to IJCAI 2025.
 </div>
 
+<details>
+<summary>🔥 News</summary>
+
+- **2026.09**: 🎉 Our two papers about LLMs and EAI are accepted to NeurIPS 2026.
+- **2026.05**: 🎉 Our two papers about LLMs and model merging are accepted to ICML 2026.
+- **2026.04**: 🎉 Our one paper about LLMs is accepted to ACL 2026 Findings.
+- **2026.02**: 🎉 Our one paper about LLMs is accepted to INFOCOM 2026.
+- **2026.02**: 🎉 Our one paper about Open Set Domain Generalization is accepted to CVPR 2026.
+- **2025.12**: 🎉 Our one paper about MPQ is accepted to SCIS.
+- **2025.11**: 🎉 Our one paper about NAS is accepted to AAAI 2026.
+- **2025.11**: 🎉 Our one paper about LLMs's survey is accepted to TNNLS.
+- **2025.10**: 🎉 Our one paper about NAS for few-shot learning is accepted to SWEVO.
+- **2025.09**: 🎉 Our one paper about LLMs is accepted to NeurIPS 2025.
+- **2025.07**: 🎉 Our one paper about LLMs is accepted to ACM MM 2025.
+- **2025.06**: 🎉 Our one paper about training-free NAS is accepted to ICCV 2025.
+- **2025.05**: 🎉 Our one paper about few-shot learning is accepted to ICML 2025.
+- **2025.04**: 🎉 Our one paper about few-shot learning is accepted to IJCAI 2025.
+
+</details>
+
 # 📝  Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/eop.jpg' alt="sym" width="100%"></div></div>
